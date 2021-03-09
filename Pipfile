@@ -9,6 +9,7 @@ djangorestframework = "*"
 drf-yasg = "*"
 gunicorn = "*"
 django-heroku = "*"
+django-extensions= "*"
 
 [dev-packages]
 

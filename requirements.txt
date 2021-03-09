@@ -80,6 +80,7 @@ whitenoise==5.2.0
 widgetsnbextension==3.5.1
 
 djangorestframework==3.12.2
+django_filters
 drf-extensions==0.7.0
 drf_yasg
 gunicorn==20.0.4
